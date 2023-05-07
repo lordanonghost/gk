@@ -1,0 +1,7 @@
+argparse
+whois
+requests
+socket
+dns.resolver
+telnetlib
+urllib.robotparser
